@@ -50,8 +50,8 @@ msg.addEventListener('input', function(event) {
 
 const typed = new Typed('.typed', {
     strings: [
-        '<i class="briefcase">BRIEFCASE</i>',
-        '<i class="briefcase">FRONTEND <br> DEVELOPER</i>'
+        '<i class="briefcase">Design Project</i>',
+        '<i class="briefcase">FRONTEND <br> Cursos en Linea</i>'
     ],
     typeSpeed: 80, 
     startDelay: 400, 
